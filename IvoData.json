@@ -1,11 +1,275 @@
-[
-    {
-      "id": 1,
-      "title": "Profile",
-      "slug":"Avan Kavy Kavuma",
-      "Name": "Avan Kavy Kavuma",
-      "Bio": "“Avan Kavy Kavuma “ bornSsekidde Ivan Steven Kavuma on the 5th day of July 1988. The late Ssebuwuffu Godfrey (father) and Namyalo Gladys (mother) then residents of a Kampala suburb Bwaise had a family of four children, Avan Kavy kavuma as a second born. He has three brothers Ssenabulya Allan, Kintu Sydney and Co-owner of the film production company S.I.S Films productions Kavuma Jovan Lameck. And Two sisters Namujju Allen Kavuma and Nakintu Sandra. Avan Kavy Kavuma started his education at St.Francis Primary school in Bwaise for pre-primary and due to financial crisis his family moved to Makindye where he joined Luwafu Primary school for 3years before he was taken into boarding section to Luweero Light of Life a Primary school in Luweero district , here he was suspended from school for failure to pay school fees. His mother  then separated with the father picked him up and took him to her(mother) home village - Namulonge where he finished his Primary education at government school-Namulonge Primary School. It was here that he started playing football for his school, after his Primary leaving Examinations, His mother moved him back to the city where he was supposed to start his Secondary school education. He got a half
-      football bursary at school in Mengo where he studied for 4years . Itʼs here that he realized he had to become a footballer despite of being less supported by the family . Avan Kavy played more football than studying in his last two years of Advanced education that it got him move Lugazi, Mukono, back to Kampala in just two years playing for different schools basing on who gives a better Football bursary for his education. After the two years Avan Kavy finished his High school education in Kampala at St.Luke. During his last year in High school he was scouted by a popular football coach in the country by the called names Coach Anyau who took him as a trainee to one of the top football clubs in the country Uganda Revenue Authority football club (URA fc) at the age of 17 . Due to financial issues in his family Avan Kavy did not proceed with education and decided to concentrate on his football career . He worked hard and joined Sports Club Villaʼs junior team where he played for two years on a transport pay role . The got scouted by one of the best coaches in the country -Ibrahim Kirya who took him back to (URA fc), he trainer here for a season but got a knee injury that put him on the sidelines for a couple of months which got him frustrated and decided to put his pursue for professional football to  an end . Avan Kavy then looked for jobs around town and landed himself a job at a night club in Kampala - Club Amnesia as a pool table attendant, got a promotion to a waiter and then Bar Man. He had left his Pictorial profile at a Commercial modeling agency - Xtrim Casting Agency where he got lucky and landed his first commercial gig with a Telecommunications network Company that paid him his first Million Uganda shillings aged 24. Avan Kavy then joined Runway modeling that he did for two years under Royal Essence World – Beauty Meets Artroyalessenceworld.com . Along modeling he had an interest in acting and played his first role in a film PreviewPreview1a59Dream America Official Trailer - HDYouTube · Gondaliya Bros. Motion PicturesMay 29, 2016 . Avan Kavy and His brother Kavuma Jovan Lameck aka -  GiovaniKavyboss decided to start up their own Film production Company S.I.S Films Productions and have produced their first Film -Country of Men in 2019 . "
-    }
-    
+{    "accountStatus":"OK",
+   "requestTime":1585837490,
+   "responseTime":1585837490,
+   "requestIP":"10.100.0.77",
+   "processingTime":0,
+   "events":[       {
+
+         "sequence":"1",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"3",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"5",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"7",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"9",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"11",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"13",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"15",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"17",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"19",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"21",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+},
+      {
+
+         "sequence":"23",
+         "account":"1",
+         "title":"Test Event Number 1",
+         "description":"Test Event Number 1 Long Test Description",
+         "type":"regular",
+         "startTime":"2020-04-02 00:00:00",
+         "endTime":"2020-04-03 09:21:44",
+         "timezone":"America\/Chicago",
+         "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+         "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
+         "fileUrl":"",
+         "latitude":"43.1557",
+         "longitude":"-95.1783",
+         "category":"Meeting",
+         "theme":"county_blue",
+         "location":"Solutions, Inc. Office"
+
+      
+
+}
+
+   
+
 ]
+}
+
