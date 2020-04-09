@@ -16,8 +16,8 @@
          "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
          "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
          "fileUrl":"",
-         "latitude":"43.1557",
-         "longitude":"-95.1783",
+         "lat":"43.1557",
+         "lng":"-95.1783",
          "category":"Meeting",
          "theme":"county_blue",
          "location":"Uganda"
@@ -38,8 +38,8 @@
          "imageUrl":"https:\/\/images.unsplash.com\/photo-1459499362902-55a20553e082?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
          "videoUrl":"https:\/\/www.facebook.com\/plugins\/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcityoflogansport%2Fvideos%2F169356407658231%2F&show_text=0&width=560",
          "fileUrl":"",
-         "latitude":"43.1557",
-         "longitude":"-95.1783",
+         "lat":"43.1557",
+         "lng":"-95.1783",
          "category":"Meeting",
          "theme":"county_blue",
          "location":"Kenya"
